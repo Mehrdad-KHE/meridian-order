@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>سفارشِ کار — مهرداد خیرالهی</title>
+<style>
+  :root{--ink:#1a1a1a;--muted:#5a5a5a;--line:#d8d4cc;--bg:#faf8f4;--accent:#1f4e5f}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+       font-family:Vazirmatn,"Segoe UI",Tahoma,sans-serif;line-height:1.85}
+  .wrap{max-width:34rem;margin:0 auto;padding:2rem 1.25rem 4rem}
+  h1{font-size:1.5rem;margin:0 0 .35rem}
+  .sub{color:var(--muted);margin:0 0 1.75rem}
+  label{display:block;margin:1.15rem 0 .35rem;font-weight:600;font-size:.95rem}
+  input,select,textarea{width:100%;padding:.7rem .8rem;border:1px solid var(--line);
+       border-radius:.5rem;background:#fff;font:inherit;color:inherit}
+  textarea{min-height:6rem;resize:vertical}
+  button{margin-top:1.75rem;width:100%;padding:.85rem;border:0;border-radius:.5rem;
+       background:var(--accent);color:#fff;font:inherit;font-weight:700;cursor:pointer}
+  .prices{margin:2rem 0 0;padding:1rem 1.15rem;background:#fff;border:1px solid var(--line);
+       border-radius:.6rem;font-size:.93rem}
+  .prices div{display:flex;justify-content:space-between;gap:1rem;padding:.3rem 0}
+  .prices span:last-child{white-space:nowrap;color:var(--muted)}
+  .note{font-size:.88rem;color:var(--muted);margin-top:1.25rem}
+  .sent{display:none;margin-top:1.5rem;padding:1rem;background:#eef4f2;
+       border:1px solid #bcd3cb;border-radius:.5rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>سفارشِ کار</h1>
+  <p class="sub">سه خط پر کنید. همان روز جواب می‌گیرید، با قیمتِ مشخص.</p>
+
+  <form id="f">
+    <label for="name">نامتان</label>
+    <input id="name" name="name" required autocomplete="name">
+
+    <label for="phone">شمارهٔ تماس</label>
+    <input id="phone" name="phone" required inputmode="tel" autocomplete="tel">
+
+    <label for="kind">چه کاری</label>
+    <select id="kind" name="kind">
+      <option>دفترِ عقب‌افتاده</option>
+      <option>دورهٔ HST عقب‌افتاده</option>
+      <option>جوابِ نامهٔ ادارهٔ مالیات</option>
+      <option>فرمِ اداری یا دولتی</option>
+      <option>نامهٔ اداری یا مکاتبهٔ کاری</option>
+      <option>نمی‌دانم، باید بپرسم</option>
+    </select>
+
+    <label for="detail">یکی دو خط توضیح</label>
+    <textarea id="detail" name="detail"
+      placeholder="مثلاً: دفترِ ۲۰۲۵ دست‌نخورده مانده، ماهی حدودِ ۴۰ رسید."></textarea>
+
+    <button type="submit">بفرست</button>
+  </form>
+
+  <div class="sent" id="sent">
+    <p style="margin:0 0 .6rem">پیام باز شد. اگر باز نشد، مستقیم پیامک بدهید به
+    <strong>647-886-3734</strong> یا ایمیل به
+    <strong>info@meridianbooks.ca</strong>.</p>
+    <ol style="margin:0;padding-inline-start:1.2rem">
+      <li>همان روز قیمتِ ثابت را می‌گویم — عددی که تا آخرِ کار عوض نمی‌شود.</li>
+      <li>نصفش را با <strong>mehrdadkh@yahoo.com</strong> می‌فرستید «واریزِ خودکار است، سؤالِ امنیتی نمی‌خواهد» و همان روز شروع می‌کنم.</li>
+      <li>کار را با فهرستِ موارد باز تحویل می‌دهم و نصفِ دوم را می‌گیرید.</li>
+    </ol>
+  </div>
+
+  <div class="prices">
+    <div><span>دفترِ عقب‌افتاده تا ۱۲ ماه</span><span>۹۰۰ دلار — سه مشتریِ اول</span></div>
+    <div><span>هر دورهٔ HST عقب‌افتاده</span><span>۲۵۰ دلار</span></div>
+    <div><span>جوابِ نامهٔ مالیات، برای امضای خودتان</span><span>۱۵۰ تا ۳۰۰ دلار</span></div>
+    <div><span>فرم یا نامهٔ اداری</span><span>۵۰ تا ۱۵۰ دلار</span></div>
+  </div>
+
+  <p class="note">
+    قیمت پیش از شروعِ کار گفته می‌شود و ثابت است؛ فقط اگر کار بزرگ‌تر از
+    توضیحِ شما دربیاید، پیش از ادامه دربارهٔ عددِ تازه توافق می‌کنیم.
+    نصف پیش از شروع، نصف موقعِ تحویل.
+    کارِ مهاجرتی و مشاورهٔ حقوقی انجام نمی‌شود.
+  </p>
+
+</div>
+
+<script>
+// بی‌سرور: فرم یک پیامکِ از پیش نوشته‌شده باز می‌کند تا هیچ‌چیز روی راه گم نشود.
+document.getElementById('f').addEventListener('submit', function (e) {
+  e.preventDefault();
+  var g = function (id) { return document.getElementById(id).value.trim(); };
+  var body = 'سفارشِ کار\n'
+           + 'نام: ' + g('name') + '\n'
+           + 'تلفن: ' + g('phone') + '\n'
+           + 'کار: ' + g('kind') + '\n'
+           + (g('detail') ? 'توضیح: ' + g('detail') : '');
+  document.getElementById('sent').style.display = 'block';
+  window.location.href = 'sms:+16478863734?&body=' + encodeURIComponent(body);
+});
+</script>
+</body>
+</html>
