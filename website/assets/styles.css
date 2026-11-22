@@ -212,3 +212,6 @@ ol.numbered li{margin-bottom:16px}
 [lang="fa"] .caption-up,[lang="fa"] .ledger-row span{text-transform:none;letter-spacing:0}
 [lang="fa"] .caption-up{font-weight:600}
 [lang="fa"] .row-link{white-space:normal}
+
+/* ITC s.3(b) row: bullet list + citation span the full row width under the band heading (Round-3 Designer fix). */
+.itc-row.itc-wide ul.ticks,.itc-row.itc-wide>p:last-child{grid-column:1/-1}
