@@ -5,7 +5,7 @@ Meridian Books provides bookkeeping for GTA trades & contractors and small profe
 
 ## Pages (English)
 
-- Home: https://mehrdad-khe.github.io/meridian-order/website/ — Toronto bookkeeping practice overview: documents in, reconciled books out, from $550/month + HST, with a downloadable sample month.
+- Home: https://mehrdad-khe.github.io/meridian-order/website/ — Toronto bookkeeping practice overview: documents in, reconciled books out, from $550/month + HST, with a downloadable sample month, the questions owners ask about bookkeeping answered in two lines each, and four printed commitments (reply within one business day, fixed fee in writing before work, month-to-month, year-end file ready for your accountant).
 - Services: https://mehrdad-khe.github.io/meridian-order/website/services.html — Bookkeeping services in Toronto: monthly bookkeeping, catch-up and cleanup, payroll support, GST/HST, and year-end preparation for your accountant, with the ITC bands in plain-language summary.
 - Pricing: https://mehrdad-khe.github.io/meridian-order/website/pricing.html — Bookkeeping pricing in Toronto: one fixed monthly fee from $550/month + HST, month-to-month, with the full scope the fee covers printed beside the price.
 - Catch-Up Bookkeeping: https://mehrdad-khe.github.io/meridian-order/website/catch-up.html — Catch-up bookkeeping in Toronto: a backlog cleared for one fixed fee, typically $1,800–$2,400 for one year and about 2–4 weeks, quoted in writing before work begins.
@@ -13,7 +13,7 @@ Meridian Books provides bookkeeping for GTA trades & contractors and small profe
 - GST/HST Bookkeeping: https://mehrdad-khe.github.io/meridian-order/website/gst-hst.html — GST/HST bookkeeping in Toronto: return preparation and filing included in the monthly scope, with the full ITC documentation bands (under $100, $100 to $500, $500 or more).
 - About: https://mehrdad-khe.github.io/meridian-order/website/about.html — About Meridian Books and its founder Mehrdad Kheirollahi, with a facts panel covering legal form, BIN 1001674192, and contact details.
 - FAQ: https://mehrdad-khe.github.io/meridian-order/website/faq.html — Bookkeeping questions and answers from the Toronto practice: pricing, month-to-month terms, software, document privacy, payroll, GST/HST, and year-end.
-- Contact: https://mehrdad-khe.github.io/meridian-order/website/contact.html — Request a free intro call in Toronto: a 20-minute phone call, we call you, in English or Persian, with a reply within one business day.
+- Contact: https://mehrdad-khe.github.io/meridian-order/website/contact.html — Request a free intro call in Toronto: a 20-minute phone call, we call you, in English or Persian, with a reply within one business day. The page sorts visitors by readiness (books behind / monthly bookkeeping / just exploring) and states how client documents are handled: never through the website form, used only for the client's bookkeeping, seen within Meridian by the founder only.
 - Privacy: https://mehrdad-khe.github.io/meridian-order/website/privacy.html — Privacy at Meridian Books: what the contact form collects, what is never collected, and how client documents are handled and retained.
 - Terms: https://mehrdad-khe.github.io/meridian-order/website/terms.html — Terms of working with Meridian Books: bookkeeping only, engagement terms, client responsibilities, and month-to-month terms.
 
