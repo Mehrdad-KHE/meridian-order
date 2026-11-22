@@ -1,37 +1,62 @@
 # Meridian Books
 
-Meridian Books is a bookkeeping practice based in Toronto, Ontario, Canada, serving clients remotely across Canada. It is an Ontario sole proprietorship founded by Mehrdad Kheirollahi, who has more than 20 years of experience.
+Meridian Books is a bookkeeping practice based in Toronto, Ontario, Canada, serving clients remotely across Canada. It is an Ontario sole proprietorship founded by Mehrdad Kheirollahi, who has more than 20 years of experience. Monthly bookkeeping is a fixed retainer from $550/month + HST, month-to-month. BIN 1001674192. Contact: info@meridianbooks.ca, +1 647-886-3734.
+Meridian Books provides bookkeeping for GTA trades & contractors and small professional practices, and for small businesses across Canada.
 
-## Pages
-- Services: https://mehrdad-khe.github.io/meridian-order/website/services.html
-- Pricing: https://mehrdad-khe.github.io/meridian-order/website/pricing.html
-- Catch-Up Bookkeeping: https://mehrdad-khe.github.io/meridian-order/website/catch-up.html
-- Payroll Support: https://mehrdad-khe.github.io/meridian-order/website/payroll.html
-- GST/HST Bookkeeping: https://mehrdad-khe.github.io/meridian-order/website/gst-hst.html
-- About: https://mehrdad-khe.github.io/meridian-order/website/about.html
-- FAQ: https://mehrdad-khe.github.io/meridian-order/website/faq.html
-- Contact: https://mehrdad-khe.github.io/meridian-order/website/contact.html
+## Pages (English)
+
+- Home: https://mehrdad-khe.github.io/meridian-order/website/ — Toronto bookkeeping practice overview: documents in, reconciled books out, from $550/month + HST, with a downloadable sample month.
+- Services: https://mehrdad-khe.github.io/meridian-order/website/services.html — Bookkeeping services in Toronto: monthly bookkeeping, catch-up and cleanup, payroll support, GST/HST, and year-end preparation for your accountant, with the ITC bands in plain-language summary.
+- Pricing: https://mehrdad-khe.github.io/meridian-order/website/pricing.html — Bookkeeping pricing in Toronto: one fixed monthly fee from $550/month + HST, month-to-month, with the full scope the fee covers printed beside the price.
+- Catch-Up Bookkeeping: https://mehrdad-khe.github.io/meridian-order/website/catch-up.html — Catch-up bookkeeping in Toronto: a backlog cleared for one fixed fee, typically $1,800–$2,400 for one year and about 2–4 weeks, quoted in writing before work begins.
+- Payroll Support: https://mehrdad-khe.github.io/meridian-order/website/payroll.html — Payroll support for Toronto small businesses: pay runs recorded and reconciled, with payroll for up to 5 employees included in the standard monthly scope.
+- GST/HST Bookkeeping: https://mehrdad-khe.github.io/meridian-order/website/gst-hst.html — GST/HST bookkeeping in Toronto: return preparation and filing included in the monthly scope, with the full ITC documentation bands (under $100, $100 to $500, $500 or more).
+- About: https://mehrdad-khe.github.io/meridian-order/website/about.html — About Meridian Books and its founder Mehrdad Kheirollahi, with a facts panel covering legal form, BIN 1001674192, and contact details.
+- FAQ: https://mehrdad-khe.github.io/meridian-order/website/faq.html — Bookkeeping questions and answers from the Toronto practice: pricing, month-to-month terms, software, document privacy, payroll, GST/HST, and year-end.
+- Contact: https://mehrdad-khe.github.io/meridian-order/website/contact.html — Request a free intro call in Toronto: a 20-minute phone call, we call you, in English or Persian, with a reply within one business day.
+- Privacy: https://mehrdad-khe.github.io/meridian-order/website/privacy.html — Privacy at Meridian Books: what the contact form collects, what is never collected, and how client documents are handled and retained.
+- Terms: https://mehrdad-khe.github.io/meridian-order/website/terms.html — Terms of working with Meridian Books: bookkeeping only, engagement terms, client responsibilities, and month-to-month terms.
+
+## Pages (Persian / فارسی)
+
+- صفحهٔ اصلی: https://mehrdad-khe.github.io/meridian-order/website/fa/ — معرفی دفتر دفترداری Meridian Books در تورنتو: اسناد وارد می‌شوند و دفاتر حساب تطبیق‌یافته بیرون می‌آیند، از $550/month + HST.
+- خدمات: https://mehrdad-khe.github.io/meridian-order/website/fa/services.html — خدمات دفترداری در تورنتو: دفترداری ماهانه، رسیدگی به دفاتر عقب‌افتاده، پشتیبانی حقوق و دستمزد، GST/HST و آماده‌سازی پایان سال برای حسابدار شما.
+- قیمت: https://mehrdad-khe.github.io/meridian-order/website/fa/pricing.html — قیمت دفترداری در تورنتو: یک مبلغ ثابت ماهانه از $550/month + HST، بدون تعهد بلندمدت و پرداخت ماه‌به‌ماه، با دامنهٔ کامل کنار قیمت.
+- رسیدگی به دفاتر عقب‌افتاده: https://mehrdad-khe.github.io/meridian-order/website/fa/catch-up.html — رسیدگی به دفاتر عقب‌افتاده در تورنتو با یک هزینهٔ ثابت، معمولاً $1,800 تا $2,400 برای یک سال و حدود 2 تا 4 هفته، با قیمت کتبی پیش از شروع کار.
+- پشتیبانی حقوق و دستمزد: https://mehrdad-khe.github.io/meridian-order/website/fa/payroll.html — پشتیبانی حقوق و دستمزد برای کسب‌وکارهای کوچک تورنتو، با پردازش حقوق و دستمزد تا 5 کارمند در دامنهٔ استاندارد ماهانه.
+- دفترداری GST/HST: https://mehrdad-khe.github.io/meridian-order/website/fa/gst-hst.html — دفترداری GST/HST در تورنتو: آماده‌سازی و ثبت اظهارنامه در دامنهٔ ماهانه گنجانده شده است، با رده‌های کامل مستندات ITC.
+- درباره: https://mehrdad-khe.github.io/meridian-order/website/fa/about.html — دربارهٔ Meridian Books و بنیان‌گذار آن مهرداد خیراللهی، با جدول واقعیت‌ها شامل شکل حقوقی، BIN 1001674192 و جزئیات تماس.
+- پرسش‌های متداول: https://mehrdad-khe.github.io/meridian-order/website/fa/faq.html — پرسش‌ها و پاسخ‌های دفترداری از دفتر تورنتو: قیمت، شرایط ماه‌به‌ماه، نرم‌افزار، حریم خصوصی اسناد، حقوق و دستمزد، GST/HST و پایان سال.
+- تماس: https://mehrdad-khe.github.io/meridian-order/website/fa/contact.html — درخواست تماس آشنایی رایگان در تورنتو: یک تماس تلفنی 20 دقیقه‌ای که ما به شما زنگ می‌زنیم، به انگلیسی یا فارسی، با پاسخ ظرف یک روز کاری.
+- حریم خصوصی: https://mehrdad-khe.github.io/meridian-order/website/fa/privacy.html — حریم خصوصی در Meridian Books: فرم تماس چه چیزهایی را جمع‌آوری می‌کند، چه چیزهایی هرگز جمع‌آوری نمی‌شوند و اسناد مشتری چطور نگهداری می‌شوند.
+- شرایط: https://mehrdad-khe.github.io/meridian-order/website/fa/terms.html — شرایط همکاری با Meridian Books: فقط دفترداری، شرایط همکاری، مسئولیت‌های مشتری و شرایط ماه‌به‌ماه.
 
 ## How to start
-Book a free intro call: a 20-minute phone call — we call you — via the Contact page, info@meridianbooks.ca, or +1 647-886-3734.
+
+Request a free intro call: a 20-minute phone call — we call you — via the Contact page, info@meridianbooks.ca, or +1 647-886-3734. Available in English or Persian. We reply within one business day, Monday to Friday, Toronto time. Your month is closed and reported by the 15th of the following month.
 
 ## Services
+
 - Monthly bookkeeping: recording and categorizing transactions, reconciling bank and credit-card accounts, and a short monthly summary.
 - Catch-up and cleanup: a backlog of bookkeeping brought up to date for a fixed fee for a defined scope, quoted before work starts.
-- Payroll support, where included in a client's agreed scope.
+- Payroll support: payroll for up to 5 employees is included in the standard monthly scope.
 - GST/HST return preparation and filing as part of the monthly books.
 - Year-end preparation: a reconciled year-end file prepared for the client's own accountant. Meridian Books does not file taxes.
 
 ## Software
+
 QuickBooks, Xero, Sage 50, and Excel. Work is done in the client's own file.
 
 ## Pricing
+
 Monthly bookkeeping is a fixed retainer from $550/month + HST, month-to-month. The retainer covers up to 100 transactions a month, up to 3 bank and credit-card accounts, monthly reconciliation and reports, GST/HST return preparation and filing, and payroll for up to 5 employees; above that scope, the fee is adjusted in writing before any work begins. Catch-up work is a fixed fee for a defined scope, quoted before work starts.
 
 ## Contact
+
 Email: info@meridianbooks.ca
 Phone: +1 647-886-3734
 Website: https://mehrdad-khe.github.io/meridian-order/website/
 
 ## Registration facts
+
 Legal form: Ontario sole proprietorship. BIN 1001674192.

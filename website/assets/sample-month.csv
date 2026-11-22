@@ -48,3 +48,12 @@ Date,Description,Category,Amount,Tax
 2026-10-30,Credit card payment — business Mastercard,Credit card payment,-1200.00,0.00
 2026-10-30,Interest earned — business savings,Other income,12.48,0.00
 2026-10-31,Month-end HST collected on sales (summary),GST/HST,0.00,4589.00
+
+# RECONCILIATION SUMMARY — SAMPLE, synthetic data. The summary below is computed from the 48 transactions above.
+Summary item,,,Amount,
+Opening balance,,,10000.00,
+Total credits (positive amounts),,,35312.48,
+Total debits (negative amounts),,,-34289.54,
+Closing / book balance,,,11022.94,
+Statement balance,,,11022.94,
+Difference,,,0.00,

@@ -215,3 +215,8 @@ ol.numbered li{margin-bottom:16px}
 
 /* ITC s.3(b) row: bullet list + citation span the full row width under the band heading (Round-3 Designer fix). */
 .itc-row.itc-wide ul.ticks,.itc-row.itc-wide>p:last-child{grid-column:1/-1}
+
+/* Round-3: About spacing + ruled facts rows */
+.section.compact{padding-block:48px}
+.facts-rows{margin-bottom:24px}
+.hero-close-line{font-weight:500}
