@@ -1,31 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://meridianbooks.ca/</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://meridianbooks.ca/services.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://meridianbooks.ca/about.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://meridianbooks.ca/contact.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://meridianbooks.ca/faq.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://meridianbooks.ca/privacy.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://meridianbooks.ca/terms.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/services.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/services.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/services.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/services.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/pricing.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/pricing.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/pricing.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/pricing.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/catch-up.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/catch-up.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/catch-up.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/catch-up.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/about.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/about.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/about.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/about.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/contact.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/contact.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/contact.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/contact.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/faq.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/faq.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/faq.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/faq.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/privacy.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/privacy.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/privacy.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/privacy.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/terms.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/terms.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/terms.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/terms.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/fa/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/fa/services.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/services.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/services.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/services.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/fa/pricing.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/pricing.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/pricing.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/pricing.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/fa/catch-up.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/catch-up.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/catch-up.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/catch-up.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/fa/about.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/about.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/about.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/about.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/fa/contact.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/contact.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/contact.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/contact.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/fa/faq.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/faq.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/faq.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/faq.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/fa/privacy.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/privacy.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/privacy.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/privacy.html"/>
+</url>
+<url>
+<loc>https://mehrdad-khe.github.io/meridian-order/website/fa/terms.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mehrdad-khe.github.io/meridian-order/website/terms.html"/>
+<xhtml:link rel="alternate" hreflang="fa" href="https://mehrdad-khe.github.io/meridian-order/website/fa/terms.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mehrdad-khe.github.io/meridian-order/website/terms.html"/>
+</url>
 </urlset>
