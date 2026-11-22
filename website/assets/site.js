@@ -9,6 +9,13 @@
       btn.setAttribute("aria-expanded", open ? "true" : "false");
     });
   }
+  var presetLinks = document.querySelectorAll("[data-behind]");
+  for (var i = 0; i < presetLinks.length; i++) {
+    presetLinks[i].addEventListener("click", function () {
+      var sel = document.getElementById("cf-behind");
+      if (sel) { sel.value = this.getAttribute("data-behind"); }
+    });
+  }
   var form = document.getElementById("book-form");
   if (form) {
     form.addEventListener("submit", function () {

@@ -220,3 +220,42 @@ ol.numbered li{margin-bottom:16px}
 .section.compact{padding-block:48px}
 .facts-rows{margin-bottom:24px}
 .hero-close-line{font-weight:500}
+
+/* Set B round (2026-11-22): readiness doors, commitments band, three-step discipline, sample beats */
+.doors{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.door{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--line);border-top:3px solid var(--wine);border-radius:8px;padding:24px;color:var(--ink)}
+.door h3{color:var(--ink)}
+.door h3 a{color:var(--ink);text-decoration:none}
+.door h3 a:hover{color:var(--wine);text-decoration:underline;text-underline-offset:3px}
+.door p{font-size:16px;color:var(--ink-soft);margin:0 0 14px}
+.door-actions{margin-top:auto;display:flex;flex-direction:column;align-items:flex-start;gap:10px}
+.door-actions .row-link{white-space:normal;margin-top:0}
+.commit-band{display:grid;grid-template-columns:repeat(4,1fr);border:1px solid var(--line);border-top:3px solid var(--wine);background:var(--surface);border-radius:8px;overflow:hidden}
+.commit-band span{font-size:16px;font-weight:600;line-height:1.5;color:var(--ink);padding:20px;border-inline-end:1px solid var(--line)}
+.commit-band span:last-child{border-inline-end:none}
+.steps.three{grid-template-columns:repeat(3,1fr)}
+.beats{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-bottom:24px}
+.beat{border-top:1px solid var(--line);padding-top:16px}
+.beat h3{color:var(--wine)}
+.beat p{font-size:16px;margin:0}
+@media (max-width:1023px){
+  .doors,.beats{grid-template-columns:1fr}
+  .steps.three{grid-template-columns:repeat(3,1fr)}
+  .commit-band{grid-template-columns:repeat(2,1fr)}
+  .commit-band span:nth-child(2n){border-inline-end:none}
+  .commit-band span:nth-child(n+3){border-top:1px solid var(--line)}
+}
+@media (max-width:767px){
+  .steps.three{grid-template-columns:1fr}
+  .commit-band{grid-template-columns:1fr}
+  .commit-band span{border-inline-end:none;border-top:1px solid var(--line)}
+  .commit-band span:first-child{border-top:none}
+}
+/* Set B fix round (2026-11-22): mini ledger excerpt, commitments sentence, section CTAs */
+.mini-ledger{margin-top:14px;background:var(--paper);border:1px solid var(--line);border-top:3px solid var(--wine);border-radius:8px;padding:12px 14px;font-size:14px}
+.mini-ledger table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+.mini-ledger td{padding:4px 0;border-bottom:1px solid var(--line);color:var(--ink-soft)}
+.mini-ledger td:last-child{text-align:right;color:var(--ink);white-space:nowrap;padding-left:12px}
+.mini-ledger tr.tot td{border-bottom:0;font-weight:600;color:var(--ink)}
+.commit-line{margin-top:16px;color:var(--ink-soft);max-width:72ch}
+.section-cta{margin-top:26px}
