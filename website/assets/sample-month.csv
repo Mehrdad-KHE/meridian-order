@@ -1,0 +1,50 @@
+# SAMPLE — fictional business, synthetic data. Sample of the Meridian Books method — not a client's work.
+Date,Description,Category,Amount,Tax
+2026-10-01,"Client deposit — kitchen renovation, Etobicoke",Sales revenue,8500.00,1105.00
+2026-10-01,Business chequing account fee,Bank charges,-16.95,-2.20
+2026-10-02,Lumber and framing materials — supplier invoice 4417,Materials,-1246.80,-162.08
+2026-10-02,Fuel — work truck,Vehicle expenses,-112.40,-14.61
+2026-10-03,"Subcontractor — electrical rough-in, day 1",Subcontractors,-950.00,-123.50
+2026-10-05,"Progress billing — bathroom renovation, North York",Sales revenue,6200.00,806.00
+2026-10-05,Drywall and compound — supplier invoice 4431,Materials,-684.25,-88.95
+2026-10-06,"Payroll — net pay, employee 1",Payroll wages,-1840.00,0.00
+2026-10-06,"Payroll — net pay, employee 2",Payroll wages,-1715.50,0.00
+2026-10-06,"Payroll — net pay, employee 3",Payroll wages,-1522.75,0.00
+2026-10-06,Payroll source deductions remittance — September,Payroll remittances,-1986.34,0.00
+2026-10-07,Tile and grout — supplier invoice 4450,Materials,-932.60,-121.24
+2026-10-07,"Tool rental — tile saw, 3 days",Equipment rental,-189.00,-24.57
+2026-10-08,Subcontractor — plumbing rough-in,Subcontractors,-1200.00,-156.00
+2026-10-09,Fuel — work truck,Vehicle expenses,-98.75,-12.84
+2026-10-09,Building permit — City of Toronto,Permits and fees,-356.00,0.00
+2026-10-10,"Client payment — deck build, final balance",Sales revenue,4300.00,559.00
+2026-10-12,Paint and primer — supplier invoice 4472,Materials,-412.30,-53.60
+2026-10-12,Disposal bin rental and tipping fees,Waste disposal,-525.00,-68.25
+2026-10-13,Credit card payment — business Mastercard,Credit card payment,-1500.00,0.00
+2026-10-14,Cabinet hardware — supplier invoice 4489,Materials,-763.45,-99.25
+2026-10-14,Mobile phone — business line,Telephone,-85.00,-11.05
+2026-10-15,"Insurance — commercial liability, monthly",Insurance,-284.00,0.00
+2026-10-15,"Subcontractor — electrical rough-in, day 2",Subcontractors,-950.00,-123.50
+2026-10-16,"Progress billing — kitchen renovation, Etobicoke",Sales revenue,7400.00,962.00
+2026-10-16,Countertop deposit — supplier invoice 4501,Materials,-2100.00,-273.00
+2026-10-17,Fuel — work truck,Vehicle expenses,-121.30,-15.77
+2026-10-19,Flooring materials — supplier invoice 4518,Materials,-1875.20,-243.78
+2026-10-20,"Payroll — net pay, employee 1",Payroll wages,-1840.00,0.00
+2026-10-20,"Payroll — net pay, employee 2",Payroll wages,-1715.50,0.00
+2026-10-20,"Payroll — net pay, employee 3",Payroll wages,-1522.75,0.00
+2026-10-21,"Subcontractor — tiling, bathroom",Subcontractors,-1600.00,-208.00
+2026-10-21,Fasteners and consumables — supplier invoice 4533,Materials,-236.90,-30.80
+2026-10-22,"Vehicle maintenance — brakes, work truck",Vehicle expenses,-486.50,-63.25
+2026-10-23,"Client deposit — basement finishing, Scarborough",Sales revenue,5000.00,650.00
+2026-10-23,Insulation materials — supplier invoice 4547,Materials,-894.00,-116.22
+2026-10-24,"Safety supplies — gloves, masks, eyewear",Shop supplies,-148.60,-19.32
+2026-10-26,Accounting software subscription,Office expenses,-65.00,-8.45
+2026-10-26,Subcontractor — drywall finishing,Subcontractors,-1350.00,-175.50
+2026-10-27,Fuel — work truck,Vehicle expenses,-104.85,-13.63
+2026-10-27,Appliance delivery fee — client site,Delivery,-129.00,-16.77
+2026-10-28,"Progress billing — bathroom renovation, North York",Sales revenue,3900.00,507.00
+2026-10-28,"Fixtures — faucets and lighting, supplier invoice 4562",Materials,-1108.75,-144.14
+2026-10-29,WSIB premium remittance,Payroll remittances,-412.60,0.00
+2026-10-29,Bank e-transfer fees,Bank charges,-7.50,-0.98
+2026-10-30,Credit card payment — business Mastercard,Credit card payment,-1200.00,0.00
+2026-10-30,Interest earned — business savings,Other income,12.48,0.00
+2026-10-31,Month-end HST collected on sales (summary),GST/HST,0.00,4589.00

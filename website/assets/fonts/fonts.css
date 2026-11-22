@@ -1,0 +1,26 @@
+/* Self-hosted fonts — Fraunces + Inter, variable woff2, latin subset;
+   Vazirmatn variable woff2 for the Persian (fa) tree.
+   Downloaded from Google Fonts 2026-11-22. No external requests. */
+@font-face{
+  font-family:"Fraunces";
+  src:url("fraunces.woff2") format("woff2");
+  font-weight:500 600;
+  font-style:normal;
+  font-display:swap;
+}
+@font-face{
+  font-family:"Inter";
+  src:url("inter.woff2") format("woff2");
+  font-weight:400 600;
+  font-style:normal;
+  font-display:swap;
+}
+
+/* Vazirmatn — self-hosted 2026-11-22 (arabic subset, variable weight) for the Persian mirror. */
+@font-face{
+  font-family:"Vazirmatn";
+  src:url("vazirmatn.woff2") format("woff2");
+  font-weight:400 700;
+  font-style:normal;
+  font-display:swap;
+}

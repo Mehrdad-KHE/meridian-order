@@ -27,7 +27,7 @@ p{margin:0 0 16px;max-width:68ch}
 .caption{font-size:14px;line-height:1.5;font-weight:500;color:var(--ink-soft)}
 .caption-up{font-size:14px;font-weight:500;text-transform:uppercase;letter-spacing:.12em;color:var(--wine)}
 a{color:var(--wine)}
-a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible{outline:3px solid var(--wine);outline-offset:3px}
+a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid var(--wine);outline-offset:3px}
 .text-link{font-weight:600;color:var(--wine);text-decoration:underline;text-underline-offset:4px}
 .text-link:hover{color:var(--wine-dark);text-decoration-thickness:2px}
 /* Buttons — the one primary style */
@@ -77,15 +77,17 @@ a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible{
 .ledger-row strong{font-weight:500;font-size:16px;line-height:1.6}
 .ledger-row.sample{background:var(--paper);padding-inline:12px;border-radius:4px}
 /* Trust strip */
-.trust-strip{display:flex;flex-wrap:wrap;border-block:1px solid var(--line);margin-bottom:0}
+.trust-strip{display:grid;grid-template-columns:repeat(4,1fr);border-block:1px solid var(--line);margin-bottom:0}
 .trust-strip span{font-size:15px;font-weight:500;color:var(--ink-soft);padding-block:16px;padding-inline:20px;border-inline-end:1px solid var(--line)}
-.trust-strip span:first-child{padding-inline-start:0}
 .trust-strip span:last-child{border-inline-end:none}
 /* GEO block */
-.geo-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
-.geo-item{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:24px}
-.geo-item h3{color:var(--wine)}
+.geo-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:0 48px}
+.geo-item{border-top:2px solid var(--line);padding-block:20px}
+.geo-item h3{color:var(--wine);font-size:19px}
 .geo-item p{font-size:16px;line-height:1.6;margin:0}
+.geo-item.check{border-top:3px solid var(--wine)}
+.geo-item.check h3{font-size:24px}
+.geo-item.check p{font-size:19px;line-height:1.6}
 /* Ruled items */
 .ruled-items{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
 .ruled-item{border-top:1px solid var(--line);padding-top:16px}
@@ -103,7 +105,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible{
 .svc-cols{display:grid;grid-template-columns:1fr 1fr;gap:48px}
 ul.ticks{list-style:none;margin:0 0 16px;padding:0}
 ul.ticks li{padding-inline-start:28px;position:relative;margin-bottom:8px;font-size:16px;line-height:1.6}
-ul.ticks li::before{content:"";position:absolute;inset-inline-start:0;top:.55em;width:14px;height:8px;border-inline-start:3px solid var(--clay);border-bottom:3px solid var(--clay);transform:rotate(-45deg)}
+ul.ticks li::before{content:"";position:absolute;inset-inline-start:0;top:.55em;width:14px;height:8px;border-left:3px solid var(--clay);border-bottom:3px solid var(--clay);transform:rotate(-45deg)}
 table.bands,table.facts{border-collapse:collapse;width:100%;background:var(--surface);margin-bottom:24px}
 table.bands th,table.bands td,table.facts th,table.facts td{border:1px solid var(--line);padding:12px 16px;text-align:start;font-size:16px;line-height:1.6;vertical-align:top}
 table.bands thead th{background:var(--paper-deep);font-family:var(--font-display);font-weight:600}
@@ -142,7 +144,7 @@ ol.numbered li{margin-bottom:16px}
 .site-footer h3{color:var(--paper);font-size:18px}
 .site-footer a{color:var(--paper);text-decoration:none;display:block;padding-block:6px}
 .site-footer a:hover{text-decoration:underline;text-underline-offset:4px}
-.foot-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:32px;padding-bottom:48px}
+.foot-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr 1fr;gap:32px;padding-bottom:48px}
 .foot-lockup{margin-bottom:16px}
 .foot-wm{color:var(--paper)}
 .foot-legal{border-top:1px solid var(--ink-soft);padding-block:24px;font-size:14px;line-height:1.5}
@@ -153,11 +155,14 @@ ol.numbered li{margin-bottom:16px}
 [dir="rtl"] body{line-height:1.9}
 /* Responsive */
 @media (max-width:1023px){
-  .geo-grid,.ruled-items{grid-template-columns:repeat(2,1fr)}
+  .ruled-items{grid-template-columns:repeat(2,1fr)}
+  .geo-grid{grid-template-columns:1fr}
   .steps{grid-template-columns:repeat(2,1fr)}
   .foot-grid{grid-template-columns:repeat(2,1fr)}
 }
 @media (max-width:767px){
+  .service-row{flex-direction:column;align-items:stretch;gap:8px}
+  .service-row .row-link{align-self:flex-start}
   h1{font-size:36px;line-height:1.12} h2{font-size:28px}
   .section{padding-block:64px}
   .wrap{padding-inline:20px}
@@ -167,8 +172,43 @@ ol.numbered li{margin-bottom:16px}
   .mainnav{display:none;flex-basis:100%;flex-direction:column;gap:0;order:5}
   .mainnav.open{display:flex}
   .btn-head{padding:12px 16px}
-  .trust-strip span{border-inline-end:none;padding-inline:0;flex-basis:100%}
+  .trust-strip{grid-template-columns:repeat(2,1fr)}
+  .trust-strip span{padding-inline:12px}
+  .trust-strip span:nth-child(2n){border-inline-end:none}
   table.facts th{width:auto}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 @media print{body{background:#fff}.site-header,.btn{display:none}}
+
+/* Round-2 additions */
+.price-lock{display:inline-block;white-space:nowrap}
+.bin{white-space:nowrap}
+.scope-hero{font-size:16px;line-height:1.6;color:var(--ink-soft);max-width:62ch}
+.founder-fig{margin:0}
+.founder-fig figcaption{margin-top:12px}
+.guide-box{background:var(--surface);border:1px solid var(--line);border-inline-start:4px solid var(--wine);border-radius:8px;padding:24px}
+.guide-box p{margin:0}
+.identity-echo{padding-block:48px}
+.identity-echo p{font-size:17px;line-height:1.65;margin:0}
+.method-cols{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start}
+.itc-rows{border-bottom:1px solid var(--line);margin-bottom:24px}
+.itc-row{display:grid;grid-template-columns:240px 1fr;gap:24px;border-top:1px solid var(--line);padding-block:20px}
+.itc-row h3{font-size:20px;color:var(--wine);margin:0}
+.itc-row p{font-size:17px;line-height:1.65;margin:0;max-width:none}
+.contact-form select{font:inherit;font-size:16px;padding:12px;border:1px solid var(--line);border-radius:4px;background:var(--paper);min-height:44px}
+.form-confirm{background:var(--paper-deep);border:1px solid var(--line);border-radius:4px;padding:16px;margin-top:16px}
+.form-confirm p{margin:0;font-size:16px}
+@media (max-width:767px){
+  .price{font-size:29px;line-height:1.15}
+  .price-per{font-size:16px}
+  .method-cols,.itc-row{grid-template-columns:1fr}
+  .hero-grid .founder-grid{grid-template-columns:1fr}
+}
+
+/* FA pages (moved from inline <style> 2026-11-22 so style-src needs no 'unsafe-inline'): Persian headings in Vazirmatn; Latin faces remain for Latin words, the wordmark and price figures. */
+/* FA pages: Persian headings in Vazirmatn (DESIGN-DIRECTION §10); Latin faces remain for Latin words, the wordmark and price figures. */
+[lang="fa"] h1,[lang="fa"] h2,[lang="fa"] h3{font-family:"Vazirmatn","Inter",sans-serif}
+[lang="fa"] .lead,[lang="fa"] .section-lead{line-height:1.85}
+[lang="fa"] .caption-up,[lang="fa"] .ledger-row span{text-transform:none;letter-spacing:0}
+[lang="fa"] .caption-up{font-weight:600}
+[lang="fa"] .row-link{white-space:normal}
