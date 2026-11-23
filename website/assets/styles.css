@@ -259,3 +259,17 @@ ol.numbered li{margin-bottom:16px}
 .mini-ledger tr.tot td{border-bottom:0;font-weight:600;color:var(--ink)}
 .commit-line{margin-top:16px;color:var(--ink-soft);max-width:72ch}
 .section-cta{margin-top:26px}
+
+/* Caravel layer (2026-11-22 fix round) */
+.negation{font-family:var(--font-display);font-size:22px;font-weight:600;color:var(--wine);line-height:1.35;margin:18px 0 6px}
+.path-h{display:flex;align-items:baseline;gap:12px;margin:30px 0 12px}
+.path-num{font-family:var(--font-display);font-weight:600;font-size:26px;color:var(--clay)}
+.philosophy{border-inline-start:3px solid var(--wine);padding-inline-start:14px;font-family:var(--font-display);font-size:19px;line-height:1.5;color:var(--ink);margin:0 0 18px;max-width:46em}
+.speed-rows{border-top:2px solid var(--ink)}
+.speed-row{display:flex;gap:16px;justify-content:space-between;align-items:baseline;padding-block:10px;border-bottom:1px solid var(--line)}
+.speed-row span{font-size:14px;font-weight:500;text-transform:uppercase;letter-spacing:.08em;color:var(--clay);white-space:nowrap}
+[lang="fa"] .speed-row span{text-transform:none;letter-spacing:0}
+.speed-row strong{font-weight:500;font-size:17px;line-height:1.55;text-align:end}
+.signed-block{border:1.5px solid var(--ink);background:var(--surface);padding:28px 30px;max-width:820px}
+.signed-block p{margin:0 0 12px}
+.signed-block .signature{font-family:var(--font-display);font-size:19px;color:var(--wine);margin:18px 0 0}
