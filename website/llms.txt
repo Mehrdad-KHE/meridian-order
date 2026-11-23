@@ -1,6 +1,6 @@
 # Meridian Books
 
-Meridian Books is a bookkeeping practice based in Toronto, Ontario, Canada, serving clients remotely across Canada. It is an Ontario sole proprietorship founded by Mehrdad Kheirollahi, who has more than 20 years of experience. Monthly bookkeeping is a fixed retainer from $550/month + HST, month-to-month. BIN 1001674192. Contact: info@meridianbooks.ca, +1 647-886-3734.
+Meridian Books is a bookkeeping practice based in Toronto, Ontario, Canada, serving clients remotely across Canada. It is an Ontario sole proprietorship founded by Mehrdad Kheirollahi, who has more than 20 years of experience. The self-serve subscription is $50/month + HST billed annually (or $60/month + HST month-to-month): documents in, one structured import-ready file out for the subscriber's own QuickBooks, Xero or Sage 50, up to 250 documents a month, extra documents $0.25 each; no bookkeeper is included in the subscription. Monthly bookkeeping is a fixed retainer from $550/month + HST, month-to-month. BIN 1001674192. Contact: info@meridianbooks.ca, +1 647-886-3734.
 Meridian Books provides bookkeeping for GTA trades & contractors and small professional practices, and for small businesses across Canada.
 
 ## Pages (English)
@@ -8,6 +8,7 @@ Meridian Books provides bookkeeping for GTA trades & contractors and small profe
 - Home: https://mehrdad-khe.github.io/meridian-order/website/ — Toronto bookkeeping practice overview: documents in, reconciled books out, from $550/month + HST, with a downloadable sample month, the questions owners ask about bookkeeping answered in two lines each, and four printed commitments (reply within one business day, fixed fee in writing before work, month-to-month, year-end file ready for your accountant).
 - Services: https://mehrdad-khe.github.io/meridian-order/website/services.html — Bookkeeping services in Toronto: monthly bookkeeping, catch-up and cleanup, payroll support, GST/HST, and year-end preparation for your accountant, with the ITC bands in plain-language summary.
 - Pricing: https://mehrdad-khe.github.io/meridian-order/website/pricing.html — Bookkeeping pricing in Toronto: one fixed monthly fee from $550/month + HST, month-to-month, with the full scope the fee covers printed beside the price.
+- Subscription: https://mehrdad-khe.github.io/meridian-order/website/subscription.html — The Meridian self-serve subscription: send bank statements, receipts and invoices; get back one structured, import-ready file for your own QuickBooks, Xero or Sage 50. $50/month + HST billed annually or $60/month + HST month-to-month, up to 250 documents a month; no bookkeeper included. Founding list open; checkout opens when payment processing is switched on.
 - Catch-Up Bookkeeping: https://mehrdad-khe.github.io/meridian-order/website/catch-up.html — Catch-up bookkeeping in Toronto: a backlog cleared for one fixed fee, typically $1,800–$2,400 for one year and about 2–4 weeks, quoted in writing before work begins.
 - Payroll Support: https://mehrdad-khe.github.io/meridian-order/website/payroll.html — Payroll support for Toronto small businesses: pay runs recorded and reconciled, with payroll for up to 5 employees included in the standard monthly scope.
 - GST/HST Bookkeeping: https://mehrdad-khe.github.io/meridian-order/website/gst-hst.html — GST/HST bookkeeping in Toronto: return preparation and filing included in the monthly scope, with the full ITC documentation bands (under $100, $100 to $500, $500 or more).
@@ -22,6 +23,7 @@ Meridian Books provides bookkeeping for GTA trades & contractors and small profe
 - صفحهٔ اصلی: https://mehrdad-khe.github.io/meridian-order/website/fa/ — معرفی دفتر دفترداری Meridian Books در تورنتو: اسناد وارد می‌شوند و دفاتر حساب تطبیق‌یافته بیرون می‌آیند، از $550/month + HST.
 - خدمات: https://mehrdad-khe.github.io/meridian-order/website/fa/services.html — خدمات دفترداری در تورنتو: دفترداری ماهانه، رسیدگی به دفاتر عقب‌افتاده، پشتیبانی حقوق و دستمزد، GST/HST و آماده‌سازی پایان سال برای حسابدار شما.
 - قیمت: https://mehrdad-khe.github.io/meridian-order/website/fa/pricing.html — قیمت دفترداری در تورنتو: یک مبلغ ثابت ماهانه از $550/month + HST، بدون تعهد بلندمدت و پرداخت ماه‌به‌ماه، با دامنهٔ کامل کنار قیمت.
+- اشتراک: https://mehrdad-khe.github.io/meridian-order/website/fa/subscription.html — اشتراک خودکار Meridian: صورت‌حساب‌ها، رسیدها و فاکتورها را بفرستید و یک فایل ساخت‌یافته و آمادهٔ ورود برای QuickBooks، Xero یا Sage 50 خودتان برگردانید. $50/month + HST با پرداخت سالانه یا $60/month + HST ماه‌به‌ماه، تا 250 سند در ماه؛ دفتردار داخل اشتراک نیست. فهرست بنیان‌گذار باز است.
 - رسیدگی به دفاتر عقب‌افتاده: https://mehrdad-khe.github.io/meridian-order/website/fa/catch-up.html — رسیدگی به دفاتر عقب‌افتاده در تورنتو با یک هزینهٔ ثابت، معمولاً $1,800 تا $2,400 برای یک سال و حدود 2 تا 4 هفته، با قیمت کتبی پیش از شروع کار.
 - پشتیبانی حقوق و دستمزد: https://mehrdad-khe.github.io/meridian-order/website/fa/payroll.html — پشتیبانی حقوق و دستمزد برای کسب‌وکارهای کوچک تورنتو، با پردازش حقوق و دستمزد تا 5 کارمند در دامنهٔ استاندارد ماهانه.
 - دفترداری GST/HST: https://mehrdad-khe.github.io/meridian-order/website/fa/gst-hst.html — دفترداری GST/HST در تورنتو: آماده‌سازی و ثبت اظهارنامه در دامنهٔ ماهانه گنجانده شده است، با رده‌های کامل مستندات ITC.
@@ -49,7 +51,7 @@ QuickBooks, Xero, Sage 50, and Excel. Work is done in the client's own file.
 
 ## Pricing
 
-Monthly bookkeeping is a fixed retainer from $550/month + HST, month-to-month. The retainer covers up to 100 transactions a month, up to 3 bank and credit-card accounts, monthly reconciliation and reports, GST/HST return preparation and filing, and payroll for up to 5 employees; above that scope, the fee is adjusted in writing before any work begins. Catch-up work is a fixed fee for a defined scope, quoted before work starts.
+The self-serve subscription is $50/month + HST billed annually (or $60/month + HST month-to-month): documents in, one structured import-ready file out for the subscriber's own QuickBooks, Xero or Sage 50, up to 250 documents a month, extra documents $0.25 each; no bookkeeper is included in the subscription. Monthly bookkeeping is a fixed retainer from $550/month + HST, month-to-month. The retainer covers up to 100 transactions a month, up to 3 bank and credit-card accounts, monthly reconciliation and reports, GST/HST return preparation and filing, and payroll for up to 5 employees; above that scope, the fee is adjusted in writing before any work begins. Catch-up work is a fixed fee for a defined scope, quoted before work starts.
 
 ## Contact
 
