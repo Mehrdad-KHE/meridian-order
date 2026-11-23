@@ -122,8 +122,7 @@ table.bands tbody tr:hover{background:var(--stone)}
 .price-per{font-size:20px;font-weight:500}
 .scope-line{border-block:1px solid var(--line);padding-block:16px;font-size:16px;line-height:1.6;font-weight:500}
 /* Founder */
-.founder-grid{display:grid;grid-template-columns:2fr 3fr;gap:48px;align-items:start}
-.founder-photo{border-radius:8px;width:100%;aspect-ratio:4/5;object-fit:cover}
+.founder-text{max-width:760px}
 /* FAQ */
 .faq-item{border-top:1px solid var(--line);padding-block:24px}
 .faq-item p{margin:0}
@@ -166,7 +165,7 @@ ol.numbered li{margin-bottom:16px}
   h1{font-size:36px;line-height:1.12} h2{font-size:28px}
   .section{padding-block:64px}
   .wrap{padding-inline:20px}
-  .hero-grid,.pricing-grid,.founder-grid,.contact-grid,.svc-cols{grid-template-columns:1fr}
+  .hero-grid,.pricing-grid,.contact-grid,.svc-cols{grid-template-columns:1fr}
   .geo-grid,.ruled-items,.steps,.foot-grid{grid-template-columns:1fr}
   .menu-btn{display:block}
   .mainnav{display:none;flex-basis:100%;flex-direction:column;gap:0;order:5}
@@ -184,8 +183,6 @@ ol.numbered li{margin-bottom:16px}
 .price-lock{display:inline-block;white-space:nowrap}
 .bin{white-space:nowrap}
 .scope-hero{font-size:16px;line-height:1.6;color:var(--ink-soft);max-width:62ch}
-.founder-fig{margin:0}
-.founder-fig figcaption{margin-top:12px}
 .guide-box{background:var(--surface);border:1px solid var(--line);border-inline-start:4px solid var(--wine);border-radius:8px;padding:24px}
 .guide-box p{margin:0}
 .identity-echo{padding-block:48px}
@@ -202,7 +199,6 @@ ol.numbered li{margin-bottom:16px}
   .price{font-size:29px;line-height:1.15}
   .price-per{font-size:16px}
   .method-cols,.itc-row{grid-template-columns:1fr}
-  .hero-grid .founder-grid{grid-template-columns:1fr}
 }
 
 /* FA pages (moved from inline <style> 2026-11-22 so style-src needs no 'unsafe-inline'): Persian headings in Vazirmatn; Latin faces remain for Latin words, the wordmark and price figures. */
